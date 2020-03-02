@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1.ConsultarFacturaPorRI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74968913-67c8-47c4-991c-62b484169d63</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c682987d-1174-4d0d-84f2-7abcb92ff7f4</id>
+      <masked>false</masked>
+      <name>NumeroRI_Pagos</name>
+   </variable>
+</TestCaseEntity>

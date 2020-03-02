@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1.ConsultarFacturaPorNumeroContrato</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b101ccc3-18a3-4ec5-b148-26d17a047c25</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfe08795-36fe-432f-b20d-ad253033d498</id>
+      <masked>false</masked>
+      <name>PagoFactura_NumeroContrato</name>
+   </variable>
+</TestCaseEntity>

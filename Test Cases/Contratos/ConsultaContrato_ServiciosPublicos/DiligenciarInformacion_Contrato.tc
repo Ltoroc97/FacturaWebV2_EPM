@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DiligenciarInformacion_Contrato</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e03e3cba-ef76-4cfd-b5a1-49cd1abeccdc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ef4e239-7d98-4066-aed9-04b2ec8c0337</id>
+      <masked>false</masked>
+      <name>ConsultaNumeroContrato</name>
+   </variable>
+</TestCaseEntity>
