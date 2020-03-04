@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Validacion_IniciarPagoSinSeleccionarFactura</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>39029a6c-6636-448e-a87e-f3b4542e8f23</testCaseGuid>
-</TestCaseEntity>
