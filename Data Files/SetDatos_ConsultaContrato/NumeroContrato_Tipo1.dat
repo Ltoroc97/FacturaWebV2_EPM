@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>7f682e4d-8318-437f-a259-b0c5596e9eb8</dataFileGUID>
-   <dataSourceUrl>C:\Users\Ltoroc\Documents\LTOROC\INTERGRUPO\AUTOMATIZACION_PROYECTOS\PROYECTOS\EPM\FacturaWeb\Automatizacion\PagarFactura_NumeroContrato_Tipo1.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\Ltoroc\Documents\LTOROC\INTERGRUPO\AUTOMATIZACION_PROYECTOS\PROYECTOS\EPM\FacturaWeb\Automatizacion\FacturaWebV2\Data Files\SetDatos_ConsultaContrato\ConsultaNumeroContrato_Tipo1.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
