@@ -14,17 +14,26 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Iniciar Sesion/IngresarPaginaPrincipal'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/IniciarSesion/a_Inicia tu sesinsi ya ests inscrito'))
 
-WebUI.setText(findTestObject('Object Repository/IniciarSesion/CampoCorreo'), 'factura.web.test@gmail.com')
+WebUI.click(findTestObject('Object Repository/IniciarSesion/CampoCorreo'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/IniciarSesion/CampoContrasea'), 'zTkQxC0omXV0d3c9k9wVpg0RUv/s+UdM')
+WebUI.click(findTestObject('Object Repository/IniciarSesion/CampoContrasea'))
 
 WebUI.click(findTestObject('Object Repository/IniciarSesion/BotonIngresar'))
 
-WebUI.click(findTestObject('Object Repository/IniciarSesion/UsuarioIniciaSesion'))
+WebUI.click(findTestObject('IniciarSesion/Validaciones/Mensaje_CampoRequerido_InicioSesion'))
+
+Result = WebUI.getText(findTestObject('IniciarSesion/Validaciones/Mensaje_CampoRequerido_InicioSesion'))
+
+System.out.println(Result)
+
+WebUI.verifyEqual(Result, 'Los campos marcados con * son requeridos.')
+
+WebUI.click(findTestObject('IniciarSesion/Validaciones/Mensaje_CampoRequerido_InicioSesion'))
+
+WebUI.click(findTestObject('IniciarSesion/Validaciones/Boton_Continuar'))
 

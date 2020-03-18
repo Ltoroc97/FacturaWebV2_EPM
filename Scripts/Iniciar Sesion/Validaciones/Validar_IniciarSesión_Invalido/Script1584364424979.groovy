@@ -14,17 +14,25 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Iniciar Sesion/IngresarPaginaPrincipal'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/IniciarSesion/a_Inicia tu sesinsi ya ests inscrito'))
 
-WebUI.setText(findTestObject('Object Repository/IniciarSesion/CampoCorreo'), 'factura.web.test@gmail.com')
+WebUI.setText(findTestObject('Object Repository/IniciarSesion/CampoCorreo'), 'Marcela.ocampo9@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/IniciarSesion/CampoContrasea'), 'zTkQxC0omXV0d3c9k9wVpg0RUv/s+UdM')
+WebUI.setText(findTestObject('Object Repository/IniciarSesion/CampoContrasea'), '123')
 
 WebUI.click(findTestObject('Object Repository/IniciarSesion/BotonIngresar'))
 
-WebUI.click(findTestObject('Object Repository/IniciarSesion/UsuarioIniciaSesion'))
+WebUI.click(findTestObject('Object Repository/IniciarSesion/Validaciones/Mensaje_CampoInvalido'))
 
+Result =  WebUI.getText('Object Repository/IniciarSesion/Validaciones/Mensaje_CampoInvalido')
+
+System.out.println(Result)
+
+WebUI.verifyEqual(Result, 'El correo electrónico o la contraseña ingresada no es correcta.')
+
+WebUI.click(findTestObject('Object Repository/IniciarSesion/Validaciones/Mensaje_CampoInvalido'))
+
+WebUI.click(findTestObject('IniciarSesion/Validaciones/Mensaje_CampoRequerido_InicioSesion'))
