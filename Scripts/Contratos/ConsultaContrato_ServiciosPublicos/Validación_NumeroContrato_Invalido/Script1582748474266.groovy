@@ -30,5 +30,3 @@ WebUI.click(findTestObject('Object Repository/ConsultarContrato_TipoFactura1/Val
 
 WebUI.click(findTestObject('Object Repository/ConsultarContrato_TipoFactura1/Validaciones/a_Cerrar'))
 
-WebUI.comment('PRueba Commit')
-

@@ -37,4 +37,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Contratos/ConsultaContrato_FacturaDiferente/Validación_NumeroRI_Invalido</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>934a9af5-c95b-47ac-83eb-69b7a41e4709</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Contratos/ConsultaContrato_FacturaDiferente/Validación_NumeroRI_CampoRequerido</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

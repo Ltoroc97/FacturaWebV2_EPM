@@ -31,4 +31,10 @@
          <variableId>6ef4e239-7d98-4066-aed9-04b2ec8c0337</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>b855625d-e473-4e2f-834d-a904de87cef8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Contratos/ConsultaContrato_ServiciosPublicos/Validación_NumeroContraro_CampoRequerido</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
