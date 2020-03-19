@@ -35,4 +35,4 @@ WebUI.verifyEqual(Result, 'El correo electrónico o la contraseña ingresada no 
 
 WebUI.click(findTestObject('Object Repository/IniciarSesion/Validaciones/Mensaje_CampoInvalido'))
 
-WebUI.click(findTestObject('IniciarSesion/Validaciones/Mensaje_CampoRequerido_InicioSesion'))
+WebUI.click(findTestObject('IniciarSesion/Validaciones/Botn_Cerrar_MensajeInvalido'))
