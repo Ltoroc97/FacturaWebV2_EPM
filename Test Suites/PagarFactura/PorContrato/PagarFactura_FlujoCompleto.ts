@@ -13,7 +13,7 @@
    <testCaseLink>
       <guid>5598e1c8-012b-4a57-82e8-8a1d055997c8</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroContrato/1.ConsultarFacturaPorNumeroContrato</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
@@ -32,15 +32,15 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>041915bc-14bd-47c5-81d9-01bc5c557210</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroContrato/2.DiligenciarInformacionEntidadPagador</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>5d679b6a-afbd-41d0-b21c-e0714c1ca2b0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroContrato/3.DiligenciarInformacion_PagadorBanco</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>041915bc-14bd-47c5-81d9-01bc5c557210</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroContrato/2.DiligenciarInformacionEntidadPagador</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
