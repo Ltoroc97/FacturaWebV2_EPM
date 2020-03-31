@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>msg_Ten presente cerrar</name>
+   <name>message_TenPresente_Cerrar</name>
    <tag></tag>
-   <elementGuidId>479d47b5-a4bc-472b-820a-17c71fff2b31</elementGuidId>
+   <elementGuidId>2f6b7056-177b-4d6b-8e20-609d56c1e2f6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

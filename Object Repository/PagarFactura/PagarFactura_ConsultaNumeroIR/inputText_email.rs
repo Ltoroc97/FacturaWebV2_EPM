@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_set email</name>
+   <name>inputText_email</name>
    <tag></tag>
-   <elementGuidId>f0e36b99-1cf2-4837-a4da-af3ecaac8de5</elementGuidId>
+   <elementGuidId>c225fbdf-a531-450e-834c-29b3d02df9d9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -129,7 +129,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>tooltip986526</value>
+      <value>tooltip341704</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

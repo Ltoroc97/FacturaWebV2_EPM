@@ -16,14 +16,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Iniciar Sesion/IngresarPaginaPrincipal'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.selectOptionByValue(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/inputComboBox_EntidadBancaria'), 
+    '78', true)
 
-WebUI.click(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/rbtn_Tengo factura diferente'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/inputComboBox_TipoCliente'), 
+    '1', true)
 
-WebUI.rightClick(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/input_set numero contrato'))
+WebUI.setText(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/inputText_NumeroIdentificacion'), 
+    '12345667')
 
-WebUI.setText(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/input_set numero contrato'), 
-    '6603829')
+WebUI.click(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/button_Pagar'))
 
-WebUI.click(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/btn_Consulta y paga'))
+WebUI.click(findTestObject('Object Repository/PagarFactura/PagarFactura_ConsultaNumeroIR/message_TenPresente_Continuar'))
 

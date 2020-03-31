@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>rbtn_Tengo factura diferente</name>
+   <name>input_Selecciona para pagar_ctl00cphPrincip_7d4a03</name>
    <tag></tag>
-   <elementGuidId>0e053f30-5b84-4e2d-beb8-c1fe567cb748</elementGuidId>
+   <elementGuidId>1644b6c4-8efc-4e8b-97dd-7291b331c966</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='RadioOw']</value>
+         <value>//input[@id='ctl00_cphPrincipal_gveFacturas_ctl01_chkSeleccionarTodos']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,55 +24,55 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>RadioOw</value>
+      <value>ctl00_cphPrincipal_gveFacturas_ctl01_chkSeleccionarTodos</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>radio</value>
+      <value>checkbox</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ctl00$cphPrincipal$formaPago</value>
+      <value>ctl00$cphPrincipal$gveFacturas$ctl01$chkSeleccionarTodos</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>RadioOw</value>
+      <value>SeleccionarTodos(true);</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;RadioOw&quot;)</value>
+      <value>id(&quot;ctl00_cphPrincipal_gveFacturas_ctl01_chkSeleccionarTodos&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='RadioOw']</value>
+      <value>//input[@id='ctl00_cphPrincipal_gveFacturas_ctl01_chkSeleccionarTodos']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='aspnetForm']/div[4]/section/article/div/div/div[2]/ol/li/div[2]/span/input</value>
+      <value>//table[@id='ctl00_cphPrincipal_gveFacturas']/tbody/tr/th[8]/span/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/span/input</value>
+      <value>//span/input</value>
    </webElementXpaths>
 </WebElementEntity>

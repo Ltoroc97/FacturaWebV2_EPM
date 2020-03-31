@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_No es de servicios pblicos_ctl00cphPr_2fa7de</name>
+   <name>inputText_AuthorizationID</name>
    <tag></tag>
-   <elementGuidId>c357475d-d19b-4500-a6f6-e089c930e809</elementGuidId>
+   <elementGuidId>a44045f6-11ed-4d35-ae32-806131806ce3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ctl00_cphPrincipal_consultaPagoLink']</value>
+         <value>//input[@id='txtAuthorizationID']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,64 +22,50 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>submit</value>
+      <value>txtAuthorizationID</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>type</name>
       <type>Main</type>
-      <value>ctl00$cphPrincipal$consultaPagoLink</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Consulta y paga</value>
+      <value>text</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ctl00_cphPrincipal_consultaPagoLink</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn_principal</value>
+      <value>txtAuthorizationID</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ctl00_cphPrincipal_consultaPagoLink&quot;)</value>
+      <value>id(&quot;txtAuthorizationID&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ctl00_cphPrincipal_consultaPagoLink']</value>
+      <value>//input[@id='txtAuthorizationID']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='aspnetForm']/div[4]/section/article/div/div/div[2]/ol/li[2]/input</value>
+      <value>//form[@id='form1']/table/tbody/tr[12]/td[2]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/input</value>
+      <value>//tr[12]/td[2]/input</value>
    </webElementXpaths>
 </WebElementEntity>

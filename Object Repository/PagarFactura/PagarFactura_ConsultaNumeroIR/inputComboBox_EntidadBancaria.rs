@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>listbx_Entidad bancaria</name>
+   <name>inputComboBox_EntidadBancaria</name>
    <tag></tag>
-   <elementGuidId>b7acb5f6-899f-44f3-a5cf-db2763e997dc</elementGuidId>
+   <elementGuidId>e6f02b40-9e10-4f25-b5ca-2c0ccb7a97b3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

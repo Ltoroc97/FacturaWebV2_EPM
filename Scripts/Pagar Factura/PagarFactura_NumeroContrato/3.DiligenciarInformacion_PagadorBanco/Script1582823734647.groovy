@@ -16,7 +16,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('Object Repository/PagarFactura/FinalizarPago/Campo_CorreoEletronicoPagos'), 'marcela.ocampo9@gmail.com')
+WebUI.setText(findTestObject('PagarFactura/FinalizarPago/Campo_CorreoEletronicoPagos'), 'marcela.ocampo9@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/PagarFactura/FinalizarPago/BotonIrBanco'))
 

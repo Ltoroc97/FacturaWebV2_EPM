@@ -4,5 +4,12 @@
    <name>1.ConsultarFacturaPorTipo_RI</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>943a46be-1a84-4f39-81da-8427ac17bc5c</testCaseGuid>
+   <testCaseGuid>9fe00844-6ffe-4514-bb33-ba148bc31c36</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19df0001-f6ae-4dda-824f-1cad4aa054e3</id>
+      <masked>false</masked>
+      <name>PagoFacturaIR_NumeroContrato</name>
+   </variable>
 </TestCaseEntity>

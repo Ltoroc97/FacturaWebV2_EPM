@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_Consulta y paga</name>
+   <name>input_Total a pagar_ctl00cphPrincipalbtnPagar</name>
    <tag></tag>
-   <elementGuidId>68d2ffbc-94a9-41cb-9775-7f1fab3ce029</elementGuidId>
+   <elementGuidId>59106cf1-a7eb-40bd-8872-4ecb6cc159d3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ctl00_cphPrincipal_consultaPagoLink']</value>
+         <value>//input[@id='ctl00_cphPrincipal_btnPagar']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,55 +31,48 @@
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ctl00$cphPrincipal$consultaPagoLink</value>
+      <value>ctl00$cphPrincipal$btnPagar</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Consulta y paga</value>
+      <value>Iniciar el pago</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ctl00_cphPrincipal_consultaPagoLink</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn_principal</value>
+      <value>ctl00_cphPrincipal_btnPagar</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ctl00_cphPrincipal_consultaPagoLink&quot;)</value>
+      <value>id(&quot;ctl00_cphPrincipal_btnPagar&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ctl00_cphPrincipal_consultaPagoLink']</value>
+      <value>//input[@id='ctl00_cphPrincipal_btnPagar']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='aspnetForm']/div[4]/section/article/div/div/div[2]/ol/li[2]/input</value>
+      <value>//form[@id='aspnetForm']/div[4]/section/article/div/div[2]/div[2]/div[5]/div[3]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/input</value>
+      <value>//div[5]/div[3]/input</value>
    </webElementXpaths>
 </WebElementEntity>

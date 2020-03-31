@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>bnt_Ir al banco</name>
+   <name>checkList_SeleccionaParaPagar</name>
    <tag></tag>
-   <elementGuidId>7a854481-33cc-4eba-8704-722a1ed45ee6</elementGuidId>
+   <elementGuidId>130ca3c9-48f3-442b-b477-8e099d8b7efb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='btnSeguir']</value>
+         <value>//input[@id='ctl00_cphPrincipal_gveFacturas_ctl01_chkSeleccionarTodos']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,64 +22,57 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>button</value>
+      <value>ctl00_cphPrincipal_gveFacturas_ctl01_chkSeleccionarTodos</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>type</name>
       <type>Main</type>
-      <value>btnSeguir</value>
+      <value>checkbox</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>name</name>
       <type>Main</type>
-      <value>btn btn-outline-primary</value>
+      <value>ctl00$cphPrincipal$gveFacturas$ctl01$chkSeleccionarTodos</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>processStep();</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Ir al Banco</value>
+      <value>SeleccionarTodos(true);</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btnSeguir&quot;)</value>
+      <value>id(&quot;ctl00_cphPrincipal_gveFacturas_ctl01_chkSeleccionarTodos&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='btnSeguir']</value>
+      <value>//input[@id='ctl00_cphPrincipal_gveFacturas_ctl01_chkSeleccionarTodos']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='all']/div/div[7]/div/div/input</value>
+      <value>//table[@id='ctl00_cphPrincipal_gveFacturas']/tbody/tr/th[8]/span/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[7]/div/div/input</value>
+      <value>//span/input</value>
    </webElementXpaths>
 </WebElementEntity>

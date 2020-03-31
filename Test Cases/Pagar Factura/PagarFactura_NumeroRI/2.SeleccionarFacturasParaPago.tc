@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>2.Seleccionar facturas y diligenciar inf. de banco</name>
+   <name>2.SeleccionarFacturasParaPago</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4d4bde6e-46a5-450a-9cdd-e8e91b50f8ee</testCaseGuid>
+   <testCaseGuid>fb3a8caf-0b79-4d79-a2fc-40c433d1ce68</testCaseGuid>
 </TestCaseEntity>

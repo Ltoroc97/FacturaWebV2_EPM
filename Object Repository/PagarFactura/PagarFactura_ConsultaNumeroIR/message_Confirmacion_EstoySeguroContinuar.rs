@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>msg_Estoy seguro continuar</name>
+   <name>message_Confirmacion_EstoySeguroContinuar</name>
    <tag></tag>
-   <elementGuidId>eeb8e66a-5873-487a-88ab-f7564a89a52f</elementGuidId>
+   <elementGuidId>66c00e4e-718a-46a0-9bf8-87125569d178</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

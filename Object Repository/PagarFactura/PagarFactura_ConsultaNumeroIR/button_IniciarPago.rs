@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Numero id</name>
+   <name>button_IniciarPago</name>
    <tag></tag>
-   <elementGuidId>c7a1047d-ccd4-4c62-ad77-5bbd455b2e9b</elementGuidId>
+   <elementGuidId>2eb556e9-6501-4d26-a259-a72a82493b9e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='BtnAceptar']</value>
+         <value>//input[@id='ctl00_cphPrincipal_btnPagar']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,62 +31,48 @@
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>ctl00$cphPrincipal$BtnAceptar</value>
+      <value>ctl00$cphPrincipal$btnPagar</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Pagar</value>
+      <value>Iniciar el pago</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>BtnAceptar</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>submitValidate</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
+      <value>ctl00_cphPrincipal_btnPagar</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;BtnAceptar&quot;)</value>
+      <value>id(&quot;ctl00_cphPrincipal_btnPagar&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='BtnAceptar']</value>
+      <value>//input[@id='ctl00_cphPrincipal_btnPagar']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='pnlUpdate']/div[5]/input</value>
+      <value>//form[@id='aspnetForm']/div[4]/section/article/div/div[2]/div[2]/div[5]/div[3]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/input</value>
+      <value>//div[5]/div[3]/input</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Selecciona para pagar_ctl00cphPrincip_36afca_1</name>
+   <name>button_IrAlBanco</name>
    <tag></tag>
-   <elementGuidId>1b5e00eb-b8c2-41cb-97d3-91315332183e</elementGuidId>
+   <elementGuidId>dee08373-3ddc-4261-9739-847f595974e4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ctl00_cphPrincipal_gveFacturas_ctl02_chkSeleccionar']</value>
+         <value>//input[@id='btnSeguir']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,71 +22,64 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>ctl00_cphPrincipal_gveFacturas_ctl02_chkSeleccionar</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>id</name>
       <type>Main</type>
-      <value>ctl00$cphPrincipal$gveFacturas$ctl02$chkSeleccionar</value>
+      <value>btnSeguir</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>checked</name>
+      <name>class</name>
       <type>Main</type>
-      <value>checked</value>
+      <value>btn btn-outline-primary</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onclick</name>
       <type>Main</type>
-      <value>AgregarFacturaCarritoPagos('ctl00_cphPrincipal_gveFacturas_ctl02_chkSeleccionar','24000'); SeleccionarTodos(false);</value>
+      <value>processStep();</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>value</name>
       <type>Main</type>
-      <value>0</value>
+      <value>Ir al Banco</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ctl00_cphPrincipal_gveFacturas_ctl02_chkSeleccionar&quot;)</value>
+      <value>id(&quot;btnSeguir&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ctl00_cphPrincipal_gveFacturas_ctl02_chkSeleccionar']</value>
+      <value>//input[@id='btnSeguir']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='ctl00_cphPrincipal_gveFacturas']/tbody/tr[2]/td[8]/input</value>
+      <value>//div[@id='all']/div/div[7]/div/div/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[8]/input</value>
+      <value>//div[7]/div/div/input</value>
    </webElementXpaths>
 </WebElementEntity>
