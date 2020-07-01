@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>ee27bdde-8f04-46ec-a5c2-3bdcbc4fdc96</dataFileGUID>
-   <dataSourceUrl>D:\Repositorios\Automatización\FacturaWebV2_EPM\Data Files\SetDatos_ConsultaContrato\ConsultaNumeroContrato_RI_Tipo2.xlsx</dataSourceUrl>
+   <dataSourceUrl>D:\Repositorios2\Automatización\FacturaWebV2_EPM\Data Files\SetDatos_ConsultaContrato\ConsultaNumeroContrato_RI_Tipo2.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
