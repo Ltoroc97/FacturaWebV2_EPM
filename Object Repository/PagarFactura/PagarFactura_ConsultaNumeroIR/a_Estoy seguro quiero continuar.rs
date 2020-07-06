@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Estoy seguro quiero continuar</name>
    <tag></tag>
-   <elementGuidId>7b3ab358-6dea-4b53-897d-7272cd8a1b01</elementGuidId>
+   <elementGuidId>96e3ad7b-8f68-4478-95c0-9ced20ac3a9b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

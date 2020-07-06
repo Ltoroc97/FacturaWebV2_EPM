@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Total a pagar_ctl00cphPrincipalbtnPagar</name>
    <tag></tag>
-   <elementGuidId>59106cf1-a7eb-40bd-8872-4ecb6cc159d3</elementGuidId>
+   <elementGuidId>0734b0db-e9f8-4217-82ea-05ea8978c87e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

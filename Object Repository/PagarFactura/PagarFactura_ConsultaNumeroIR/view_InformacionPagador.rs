@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>view_InformacionPagador</name>
+   <name>view_informacionPagador</name>
    <tag></tag>
-   <elementGuidId>3f1f1c41-2024-4131-926e-59d8aefb5fe7</elementGuidId>
+   <elementGuidId>9c8a4f82-e5f0-47aa-a391-3b5a2c081322</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='aspnetForm']/div[4]</value>
+         <value>//form[@id='aspnetForm']/div[4]/section/article</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,14 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>contentInner</value>
+      <value>article</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -32,8 +25,6 @@
       <name>text</name>
       <type>Main</type>
       <value>
-        
-            
                   	
                     
                     
@@ -81,16 +72,17 @@
 	BANCO COMERCIAL AVVILLAS S.A.
 	BANCO COOMEVA S.A. - BANCOOMEVA
 	BANCO COOPERATIVO COOPCENTRAL
+	BANCO CREDIFINANCIERA
 	BANCO DAVIVIENDA
 	BANCO DAVIVIENDA Desarrollo
 	BANCO DE BOGOTA
 	BANCO DE BOGOTA DESARROLLO 2013
 	BANCO DE OCCIDENTE
+	BANCO FALABELLA
 	BANCO GNB COLOMBIA (ANTES HSBC)
 	BANCO GNB SUDAMERIS
 	BANCO PICHINCHA S.A.
 	BANCO POPULAR
-	BANCO PROCREDIT COLOMBIA
 	BANCO PRODUCTOS POR SEPARADO
 	Banco PSE
 	BANCO SANTANDER COLOMBIA
@@ -105,7 +97,9 @@
 	BANCOLOMBIA DESARROLLO
 	BANCOLOMBIA QA
 	BBVA COLOMBIA S.A.
+	BBVA DESARROLLO
 	CITIBANK COLOMBIA S.A.
+	COLTEFINANCIERA S.A.
 	CONFIAR COOPERATIVA FINANCIERA
 	COOPERATIVA FINANCIERA COTRAFA
 	COOPERATIVA FINANCIERA DE ANTIOQUIA
@@ -169,43 +163,41 @@
                         
                     
                 
-            
-        
-    </value>
+            </value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;aspnetForm&quot;)/div[@class=&quot;contentInner&quot;]</value>
+      <value>id(&quot;aspnetForm&quot;)/div[@class=&quot;contentInner&quot;]/section[1]/article[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='aspnetForm']/div[4]</value>
+      <value>//form[@id='aspnetForm']/div[4]/section/article</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factura Web'])[1]/following::div[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Factura Web'])[1]/following::article[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayuda'])[1]/following::div[8]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayuda'])[1]/following::article[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]</value>
+      <value>//article</value>
    </webElementXpaths>
 </WebElementEntity>

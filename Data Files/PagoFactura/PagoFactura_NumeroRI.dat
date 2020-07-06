@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>0ebaa2ea-7388-4f0d-af95-3811ddb58e4d</dataFileGUID>
-   <dataSourceUrl>D:\Repositorios2\Automatización\FacturaWebV2_EPM\Data Files\PagoFactura\PagarFactura_RI_Tipo2.xlsx</dataSourceUrl>
+   <dataSourceUrl>D:\Repositorios2\AutomatizacionFacturaWeb\FacturaWebV2_EPM\Data Files\PagoFactura\PagarFactura_RI_Tipo2.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

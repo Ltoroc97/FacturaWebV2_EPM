@@ -3,7 +3,7 @@
    <description></description>
    <name>inputText_email</name>
    <tag></tag>
-   <elementGuidId>c225fbdf-a531-450e-834c-29b3d02df9d9</elementGuidId>
+   <elementGuidId>41a8211a-77e0-4263-8b82-12cae92cf268</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -46,6 +46,13 @@
       <name>name</name>
       <type>Main</type>
       <value>PNEMail</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeypress</name>
+      <type>Main</type>
+      <value>checkPolicyChangeDiv('PNEMail');</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -129,7 +136,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>tooltip341704</value>
+      <value>tooltip81260</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>

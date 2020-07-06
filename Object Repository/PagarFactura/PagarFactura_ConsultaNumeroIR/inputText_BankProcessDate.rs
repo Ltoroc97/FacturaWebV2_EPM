@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputText_BankProcessDate</name>
+   <name>inputText_bankProcessDate</name>
    <tag></tag>
-   <elementGuidId>24e1fc93-f16e-4631-a37a-f8240dbd7cb7</elementGuidId>
+   <elementGuidId>102b8878-39b7-4696-8319-adacbcf8253c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

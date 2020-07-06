@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputText_NumeroRI</name>
+   <name>inputText_numeroRI</name>
    <tag></tag>
-   <elementGuidId>debcb48e-1511-470a-81a1-96df60c915aa</elementGuidId>
+   <elementGuidId>91fceac8-b4f4-44a3-81a8-6e5eeb801fff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

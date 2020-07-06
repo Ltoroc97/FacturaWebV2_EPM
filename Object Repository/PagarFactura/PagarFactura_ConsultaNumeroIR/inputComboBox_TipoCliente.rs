@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputComboBox_TipoCliente</name>
+   <name>inputComboBox_tipoCliente</name>
    <tag></tag>
-   <elementGuidId>ee1d8be3-45d9-4ec3-8c16-713896a5a935</elementGuidId>
+   <elementGuidId>79167b5c-45e0-4db7-89f7-c9e94ee37d54</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

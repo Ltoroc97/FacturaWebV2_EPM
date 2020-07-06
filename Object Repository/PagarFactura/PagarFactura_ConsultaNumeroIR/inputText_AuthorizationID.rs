@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>inputText_AuthorizationID</name>
+   <name>inputText_authorizationID</name>
    <tag></tag>
-   <elementGuidId>a44045f6-11ed-4d35-ae32-806131806ce3</elementGuidId>
+   <elementGuidId>da2be341-970b-4ff5-9ea5-60e41cf94ccc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

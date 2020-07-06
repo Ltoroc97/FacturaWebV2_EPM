@@ -11,33 +11,33 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <testSuiteGuid>718ee577-3a5d-4efd-8be3-2b14f1f14464</testSuiteGuid>
    <testCaseLink>
-      <guid>bde8996c-b6ed-44c6-aedf-760b143e5b4f</guid>
+      <guid>fbeaf406-bcfe-4426-9dbe-0118e2b5a6ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroRI/1.ConsultarFacturaPorTipo_RI</testCaseId>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>19df0001-f6ae-4dda-824f-1cad4aa054e3</variableId>
-      </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>a7db034b-2537-4b5e-bcd5-fdef548255f7</guid>
+      <guid>c58d6ade-7d41-46f7-8832-dd7cb54af1fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroRI/2.SeleccionarFacturasParaPago</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>3fb8ad79-3891-48f1-8dc8-241fe0dc4338</guid>
+      <guid>cb95779a-7bc3-4d19-b38f-259bab8d76d4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroRI/3.DiligenciarInformacionPagador</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>2503fa56-e39d-4467-8f22-7f9d174e0f01</guid>
+      <guid>919fc2e4-6cd2-4d2a-83fc-bc552c0d4c18</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroRI/4.DiligenciarInformacionBanco</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>55dc42f7-23b7-4d31-937f-6be8fa604967</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Pagar Factura/PagarFactura_NumeroRI/5.InformacionDebug_Y_EstadoTransaccion</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

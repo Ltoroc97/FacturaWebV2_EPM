@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Cerrar</name>
    <tag></tag>
-   <elementGuidId>a6ebf681-0b26-4961-976c-5ae84244a116</elementGuidId>
+   <elementGuidId>b2096d3d-9981-4cad-af9a-b96f43a20e6a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -88,14 +88,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ten presente'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Puedes estar tranquilo durante la emergencia sanitaria'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuar'])[1]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ten presente'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

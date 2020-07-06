@@ -20,8 +20,6 @@ WebUI.callTestCase(findTestCase('Iniciar Sesion/IngresarPaginaPrincipal'), [:], 
 
 WebUI.click(findTestObject('Object Repository/IniciarSesion/a_Inicia tu sesinsi ya ests inscrito'))
 
-WebUI.navigateToUrl('https://epm-wt32.corp.epm.com.co/FacturaWeb/Paginas/InicioSesion.aspx')
-
 WebUI.setText(findTestObject('Object Repository/IniciarSesion/CampoCorreo'), 'factura.web.test@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/IniciarSesion/CampoContrasea'), 'zTkQxC0omXV0d3c9k9wVpg0RUv/s+UdM')

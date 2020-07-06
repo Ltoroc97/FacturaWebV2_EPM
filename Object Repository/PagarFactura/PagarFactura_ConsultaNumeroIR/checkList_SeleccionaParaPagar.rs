@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>checkList_SeleccionaParaPagar</name>
+   <name>checkList_seleccionaParaPagar</name>
    <tag></tag>
-   <elementGuidId>130ca3c9-48f3-442b-b477-8e099d8b7efb</elementGuidId>
+   <elementGuidId>8bcac4f9-f7ca-4cae-9b36-f69eea271786</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
